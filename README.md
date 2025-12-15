@@ -14,15 +14,20 @@ Most of these were made with the use of the sklearn python module to create thes
 ### chicago_crashes
 Goal: Create a model that would demonstrate what factors contribute to a fataily crash when a bike rider is involed
 
+Data Note: The file was too big and wont let me add it to github
+(Peronal note, if you want to run this one, use version were the dataset file exists in College/Fall2025/... etc etc)
+
 ### diabetes_pred
 Goal: Using Patient data, predicte whether they have diabetes or not
 
 Data:
 https://www.cdc.gov/brfss/annual_data/annual_2024.html
 The following files taken from the above website:
-
 2024 BRFSS Codebook CDC 
 2024 BRFSS Data (ASCII) 
+
+Data Note: The ASCII file was too big and wont let me add it to github
+(Peronal note, if you want to run this one, use version were the dataset file exists in College/Fall2025/... etc etc)
 
 ### federalist_papers_authors
 Goal: Predict the authors of the 12 federalist papers with disputed authorship
